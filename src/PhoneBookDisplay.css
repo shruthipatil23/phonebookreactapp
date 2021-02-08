@@ -1,0 +1,11 @@
+.tableheader{
+    background-color:rgb(180, 214, 253);
+}
+
+.tableheader:hover{
+    background-color:lightblue
+}
+
+.tablerows:hover{
+    background-color: lavenderblush;
+}
